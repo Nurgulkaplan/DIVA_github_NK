@@ -1,0 +1,89 @@
+Quarter,Date,DIVA User ,DIVA Project PI,JBEI-ABF DIVA Design link or Name,Project ,DIVA Service,Number Rn/Construct/Sample,Cost,Project ID-Activity Code,Diva Team,Hours
+FY2018-Q2,1/2/18,ggoyal@lbl.gov,njhillson@lbl.gov,https://diva.jbei.org/design/1699,Ajinomoto dodecanol Cycle2,Full DNA construction,4,$0.00 ,105129-001,GG,0
+FY2018-Q2,1/2/18,ggoyal@lbl.gov,njhillson@lbl.gov,https://diva.jbei.org/design/1664,Ajinomoto dodecanol Cycle2,Full DNA construction,7,$0.00 ,105129-001,GG,0
+FY2018-Q2,1/2/18,ggoyal@lbl.gov,njhillson@lbl.gov,https://diva.jbei.org/design/1697,Ajinomoto dodecanol Cycle2,Full DNA construction,3,$0.00 ,105129-001,GG,0
+FY2018-Q2,1/2/18,ggoyal@lbl.gov,njhillson@lbl.gov,https://diva.jbei.org/design/1698,Ajinomoto dodecanol Cycle2,Full DNA construction,10,$0.00 ,105129-001,GG,0
+FY2018-Q2,1/4/18,ggoyal@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,105,"$1,631.64 ",105129-001,JLC,23.08
+FY2018-Q2,1/4/18,jmeadows@lbl.gov,jmgladden@lbl.gov,N/A,N/A,DNA seq ,7,$58.52 ,100822-008,JLC,1.54
+FY2018-Q2,1/4/18,jblakehedges@lbl.gov,jheady@lbl.gov,N/A,N/A,DNA seq ,5,$41.80 ,100822-001,JLC,1.1
+FY2018-Q2,1/4/18,spalluk@lbl.gov,jdkeasling@lbl.gov,N/A,N/A,DNA seq ,12,$186.47 ,100822-042,JLC,2.64
+FY2018-Q2,1/4/18,paulopgenorth@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,3,$25.08 ,105129-001,JLC,0.66
+FY2018-Q2,1/4/18,avrodrigues@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,12,$100.32 ,100822-018,JLC,2.64
+FY2018-Q2,1/4/18,tokada@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,38,$317.68 ,105129-001,JLC,8.35
+FY2018-Q2,1/18/18,azargar@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,7,$58.52 ,100822-042,NK,1.15
+FY2018-Q2,1/18/18,bopang@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,2,$16.72 ,100822-042,NK,0.33
+FY2018-Q2,1/18/18,ggoyal@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,192,"$2,645.64 ",105129-001,NK,31.6
+FY2018-Q2,1/18/18,jmeadows@lbl.gov,jmgladden@lbl.gov,N/A,N/A,DNA seq ,2,$16.72 ,100822-008,NK,0.33
+FY2018-Q2,1/18/18,jblakehedges@lbl.gov,jheady@lbl.gov,N/A,N/A,DNA seq ,18,$150.48 ,103768-001,NK,2.96
+FY2018-Q2,1/18/18,spalluk@lbl.gov,jdkeasling@lbl.gov,N/A,N/A,DNA seq ,12,$100.32 ,100822-042,NK,1.98
+FY2018-Q2,1/18/18,paulopgenorth@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,2,$16.72 ,105129-001,NK,0.33
+FY2018-Q2,1/18/18,tokada@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,8,$66.88 ,105129-001,NK,1.32
+FY2018-Q2,1/18/18,mwehrs@lbl.gov,amukhopadhyay@lbl.gov,https://diva.jbei.org/design/1511,Combinatorial Xylose Utilization Pathway,PCR only,4,$59.49 ,100822-020,GG,5.33
+FY2018-Q2,1/18/18,mwehrs@lbl.gov,amukhopadhyay@lbl.gov,https://diva.jbei.org/opendesign/1753,Combinatorial Xylose Utilization Pathway,PCR only,5,$77.11 ,100822-020,GG,6.67
+FY2018-Q2,1/29/18,ceiben@lbl.gov,syuzawa@lbl.gov,pET28glu23AM point mutants,Juvenile Hormones,PCR only,40,$517.51 ,100822-042,NK,16
+FY2018-Q2,1/29/18,ceiben@lbl.gov,syuzawa@lbl.gov,pCF30-31 (newest),Juvenile Hormones,PCR only,7,$97.00 ,100822-042,NK,7
+FY2018-Q2,1/29/18,mthompson@lbl.gov,syuzawa@lbl.gov,Type III PKS Synthases in Putida,Type III PKSs in P. putida,PCR only,5,$378.53 ,100822-042,NK,5
+FY2018-Q2,1/29/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1752,Production of second generation biofuels using polyketide synthases with an evolutionary approach,PCR only,8,"$1,132.03 ",100822-042,GG,5.65
+FY2018-Q2,1/29/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1791,Production of second generation biofuels using polyketide synthases with an evolutionary approach,PCR only,6,$672.25 ,100822-042,GG,4.24
+FY2018-Q2,1/29/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,pBbB2k_BonA_AR_GANT_ACP_KS_ACPa,"Production of second generation biofuels using polyketide synthases with an evolutionary approach 
+",PCR only,2,$656.80 ,100822-042,NK,2
+FY2018-Q2,1/29/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,pBbA7a-BonFKGHIN,"Production of second generation biofuels using polyketide synthases with an evolutionary approach 
+",PCR only,6,$477.57 ,100822-042,NK,6
+FY2018-Q2,1/29/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,pBbE8c_SLI1081-1082-5669,"Production of second generation biofuels using polyketide synthases with an evolutionary approach 
+",PCR only,4,$263.88 ,100822-042,NK,4
+FY2018-Q2,2/1/18,ceiben@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1792,Juvenile Hormones,PCR only,3,$44.18 ,100822-042,GG,2.12
+FY2018-Q2,2/2/18,ceiben@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,8,$66.88 ,100822-023,GG,0.52
+FY2018-Q2,2/2/18,ceiben@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,8,$66.88 ,100822-023,GG,0.52
+FY2018-Q2,2/2/18,ceiben@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,8,$66.88 ,100822-023,GG,0.52
+FY2018-Q2,2/2/18,ggoyal@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,194,"$1,311.44 ",105129-001,GG,0
+FY2018-Q2,2/2/18,jmeadows@lbl.gov,jmgladden@lbl.gov,N/A,N/A,DNA seq ,2,$16.72 ,100822-008,GG,0.13
+FY2018-Q2,2/2/18,jblakehedges@lbl.gov,jheady@lbl.gov,N/A,N/A,DNA seq ,17,$142.12 ,103768-001,GG,1.1
+FY2018-Q2,2/2/18,spalluk@lbl.gov,jdkeasling@lbl.gov,N/A,N/A,DNA seq ,50,$418.00 ,100822-042,GG,3.23
+FY2018-Q2,2/2/18,spalluk@lbl.gov,jdkeasling@lbl.gov,N/A,N/A,DNA seq ,30,$250.80 ,100822-042,GG,1.94
+FY2018-Q2,2/2/18,ageudes@lbl.gov,hscheller@lbl.gov,N/A,N/A,DNA seq ,20,$167.20 ,100822-013,GG,1.29
+FY2018-Q2,2/2/18,yliang@lbl.gov,hscheller@lbl.gov,N/A,N/A,DNA seq ,12,$100.32 ,100822-013,GG,0.77
+FY2018-Q2,2/2/18,tokada@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,13,$108.68 ,105129-001,GG,0.84
+FY2018-Q2,2/2/18,akothari@lbl.gov,amukhopadhyay@lbl.gov,N/A,N/A,DNA seq ,10,$83.60 ,101544-035,GG,0.65
+FY2018-Q2,2/9/18,ceiben@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1811,Juvenile Hormones,PCR only,3,$108.75 ,100822-042,GG,12
+FY2018-Q2,2/12/18,dongliu2@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1807,Juvenile Hormones,PCR only,5,$105.20 ,100822-042,NK,12
+FY2018-Q2,2/22/18,azargar@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,15,$120.00 ,100822-042,JLC,3.17
+FY2018-Q2,2/22/18,ceiben@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,9,$72.00 ,100822-042,JLC,1.9
+FY2018-Q2,2/22/18,adegiovanni@lbl.gov,pdadams@lbl.gov,N/A,N/A,DNA seq ,1,$8.00 ,100822-037,JLC,0.21
+FY2018-Q2,2/22/18,ggoyal@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,25,$485.00 ,105129-001,JLC,5.29
+FY2018-Q2,2/22/18,jlchiniquy@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,24,$192.00 ,103832-002,JLC,5.08
+FY2018-Q2,2/22/18,jkirby@lbl.gov,jmgladden@lbl.gov,N/A,N/A,DNA seq ,38,$737.20 ,103832-002,JLC,8.04
+FY2018-Q2,2/22/18,stcoradetti@lbl.gov,jmgladden@lbl.gov,N/A,N/A,DNA seq ,42,$814.80 ,100822-008,JLC,8.89
+FY2018-Q2,2/22/18,jblakehedges@lbl.gov,jheady@lbl.gov,N/A,N/A,DNA seq ,12,$96.00 ,103768-001,JLC,2.54
+FY2018-Q2,2/22/18,avrodrigues@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,15,$120.00 ,100822-018,JLC,3.17
+FY2018-Q2,2/22/18,tokada@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,8,$155.20 ,105129-001,JLC,1.69
+FY2018-Q2,2/28/18,mthompson@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1815,Pfizer Collaboration,PCR only,5,$65.21 ,100822-042,GG,4.62
+FY2018-Q2,2/28/18,mthompson@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1814,Pfizer Collaboration,PCR only,5,$79.91 ,100822-042,GG,4.62
+FY2018-Q2,2/28/18,mthompson@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1813,Pfizer Collaboration,PCR only,3,$41.84 ,100822-042,GG,2.77
+FY2018-Q2,3/1/18,azargar@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,5,$40.00 ,103768-001,NK,1.29
+FY2018-Q2,3/1/18,ggoyal@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,88,"$2,664.00 ",105129-001,NK,22.7
+FY2018-Q2,3/1/18,jblakehedges@lbl.gov,jheady@lbl.gov,N/A,N/A,DNA seq ,2,$16.00 ,103768-001,NK,0.52
+FY2018-Q2,3/1/18,yliang@lbl.gov,hscheller@lbl.gov,N/A,N/A,DNA seq ,12,$96.00 ,100822-013,NK,3.1
+FY2018-Q2,3/1/18,paulopgenorth@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,16,$128.00 ,105129-001,NK,4.13
+FY2018-Q2,3/1/18,tokada@lbl.gov,hrbeller@lbl.gov,N/A,N/A,DNA seq ,32,$256.00 ,105129-001,NK,8.26
+FY2018-Q2,3/7/18,jblakehedges@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1804,FICUS PKS,Full DNA construction,8,$695.97 ,100822-042,GG,6.15
+FY2018-Q2,3/7/18,jblakehedges@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1806,FICUS PKS,Full DNA construction,40,"$3,344.57 ",100822-042,GG,30.77
+FY2018-Q2,3/7/18,jblakehedges@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1801,PKSs for methyl-branched fatty acids,Full DNA construction,2,$212.66 ,100822-042,GG,1.54
+FY2018-Q2,3/7/18,jblakehedges@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1803,PKSs for methyl-branched fatty acids,Full DNA construction,2,$241.96 ,100822-042,GG,1.54
+FY2018-Q2,3/7/18,ageudes@lbl.gov,ageudes@lbl.gov,https://diva.jbei.org/design/1779,Level 0 JBEI Phase III,Full DNA construction,16,$87.13 ,100822-013,GG,0.75
+FY2018-Q2,3/7/18,ageudes@lbl.gov,ageudes@lbl.gov,https://diva.jbei.org/design/1785,Level 0 JBEI Phase III,Full DNA construction,3,$87.13 ,100822-013,GG,0.75
+FY2018-Q2,3/7/18,ageudes@lbl.gov,ageudes@lbl.gov,https://diva.jbei.org/design/1816,Level 0 JBEI Phase III,Full DNA construction,3,$87.13 ,100822-013,GG,0.75
+FY2018-Q2,3/15/18,azargar@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,16,$133.76 ,103768-001,GG,1.79
+FY2018-Q2,3/15/18,ceiben@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,2,$16.72 ,100822-042,GG,0.22
+FY2018-Q2,3/15/18,dongliu2@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,6,$48.00 ,100822-042,GG,0.67
+FY2018-Q2,3/15/18,mthompson@lbl.gov,syuzawa@lbl.gov,N/A,N/A,DNA seq ,2,$16.00 ,100822-042,GG,0.22
+FY2018-Q2,3/15/18,ggoyal@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,50,$957.50 ,105349-001,GG,0
+FY2018-Q2,3/15/18,ggoyal@lbl.gov,njhillson@lbl.gov,N/A,N/A,DNA seq ,72,"$1,378.80 ",105129-001,GG,0
+FY2018-Q2,3/15/18,jblakehedges@lbl.gov,jheady@lbl.gov,N/A,N/A,DNA seq ,4,$33.44 ,103768-001,GG,0.45
+FY2018-Q2,3/15/18,spalluk@lbl.gov,jdkeasling@lbl.gov,N/A,N/A,DNA seq ,42,$351.12 ,100822-042,GG,4.71
+FY2018-Q2,3/15/18,akothari@lbl.gov,amukhopadhyay@lbl.gov,N/A,N/A,DNA seq ,11,$91.96 ,101544-035,GG,1.23
+FY2018-Q2,3/15/18,akothari@lbl.gov,amukhopadhyay@lbl.gov,N/A,N/A,DNA seq ,9,$75.24 ,101544-035,GG,1.01
+FY2018-Q2,3/21/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1868,Production of second generation biofuels using polyketide synthases with an evolutionary approach,PCR only,3,$265.79 ,100822-042,GG,0.4
+FY2018-Q2,3/21/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1838,Production of second generation biofuels using polyketide synthases with an evolutionary approach,PCR only,6,$711.99 ,100822-042,GG,0.79
+FY2018-Q2,3/21/18,stcoradetti@lbl.gov,jmgladden@lbl.gov,https://diva.agilebiofoundry.org/design/178,FOH in R.toruloides,Full DNA construction,10,$931.13 ,103832-005,NK,40
+FY2018-Q2,3/22/18,ceiben@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1860,Juvenile Hormones,PCR only,80,$593.19 ,100822-042,GG,10.55
+FY2018-Q2,3/28/18,pcruzmorales@lbl.gov,syuzawa@lbl.gov,https://diva.jbei.org/design/1877,Production of second generation biofuels using polyketide synthases with an evolutionary approach,PCR only,2,$146.63 ,100822-042,GG,0.26
