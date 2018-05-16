@@ -1,0 +1,17 @@
+Number,Name,Assembly Method,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number
+0,pj5_00009,Golden-gate,(backbone),0,(opMO),15,(hpPYCnoBsaIFirstHalf),16,(hpPYCnoBsaISecondHalf),32,nk,48,tl,50
+1,pj5_00010,Golden-gate,(backbone),0,(opMOec),15,(hpPYCnoBsaIFirstHalf),17,(hpPYCnoBsaISecondHalf),33,nk,48,tl,51
+2,pj5_00011,Golden-gate,(backbone),1,(opMOec),15,(hpPYCnoBsaIFirstHalf),18,(hpPYCnoBsaISecondHalf),34,nk,48,,
+3,pj5_00012,Golden-gate,(backbone),2,(opMOec),15,(hpPYCnoBsaIFirstHalf),19,(hpPYCnoBsaISecondHalf),35,,,,
+4,pj5_00013,Golden-gate,(backbone),3,(opMOec),15,(hpPYCnoBsaIFirstHalf),20,(hpPYCnoBsaISecondHalf),36,,,,
+5,pj5_00014,Golden-gate,(backbone),4,(opMOec),15,(hpPYCnoBsaIFirstHalf),21,(hpPYCnoBsaISecondHalf),37,,,,
+6,pj5_00015,Golden-gate,(backbone),5,(opMOec),15,(hpPYCnoBsaIFirstHalf),22,(hpPYCnoBsaISecondHalf),38,,,,
+7,pj5_00016,Golden-gate,(backbone),6,(opMOec),15,(hpPYCnoBsaIFirstHalf),23,(hpPYCnoBsaISecondHalf),39,nk,48,,
+8,pj5_00017,Golden-gate,(backbone),7,(opMOec),15,(hpPYCnoBsaIFirstHalf),24,(hpPYCnoBsaISecondHalf),40,nk,48,,
+9,pj5_00018,Golden-gate,(backbone),8,(opMOec),15,(hpPYCnoBsaIFirstHalf),25,(hpPYCnoBsaISecondHalf),41,nk,48,,
+10,pj5_00019,Golden-gate,(backbone),9,(opMOec),15,(hpPYCnoBsaIFirstHalf),26,(hpPYCnoBsaISecondHalf),42,,,,
+11,pj5_00020,Golden-gate,(backbone),10,(opMOec),15,(hpPYCnoBsaIFirstHalf),27,(hpPYCnoBsaISecondHalf),43,,,,
+12,pj5_00021,Golden-gate,(backbone),11,(opMOec),15,(hpPYCnoBsaIFirstHalf),28,(hpPYCnoBsaISecondHalf),44,,,,
+13,pj5_00022,Golden-gate,(backbone),12,(opMOec),15,(hpPYCnoBsaIFirstHalf),29,(hpPYCnoBsaISecondHalf),45,,,,
+14,pj5_00023,Golden-gate,(backbone),13,(opMOec),15,(hpPYCnoBsaIFirstHalf),30,(hpPYCnoBsaISecondHalf),46,,,,
+15,pj5_00024,Golden-gate,(backbone),14,(opMOec),15,(hpPYCnoBsaIFirstHalf),31,(hpPYCnoBsaISecondHalf),47,,,,
