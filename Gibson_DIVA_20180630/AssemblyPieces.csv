@@ -1,0 +1,17 @@
+DestinationWell,Name,Assembly Method,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number,Part(s),Assembly Piece ID Number
+A1,pABF00458,SLIC/Gibson/CPEC,(Term_to_origin),0,(linker30bp)_(pvs1_to_pTEF1),1,(NNT_Hleu_Nterm),2,(NNT_Hleu_Cterm),3
+B1,pABF00459,SLIC/Gibson/CPEC,(Term_to_origin),4,(linker30bp)_(pvs1_to_pTEF1),1,(NNT_human_Nterm),5,(NNT_human_Cterm),6
+C1,pABF00460,SLIC/Gibson/CPEC,(Term_to_origin),7,(linker30bp)_(pvs1_to_pTEF1),1,(NNT_G_trabeum_Nterm),8,(NNT_G_trabeum_Cterm),9
+D1,pABF00461,SLIC/Gibson/CPEC,(Term_to_origin),10,(linker30bp)_(pvs1_to_pTEF1),1,(NNt_Aaegypti_Nterm),11,(NNt_Aaegypti_Cterm),12
+E1,pDVA00001,Golden-gate,(Vector_BB),13,(Prom1),14,(BCD1),15,,
+F1,pDVA02521,Golden-gate,(pET28),16,(aoFO),17,,,,
+H1,pDVA02522,Golden-gate,(pET28),16,(svFO),18,,,,
+G1,pDVA02523,Golden-gate,(pET28),16,(ppFD),19,,,,
+A2,pDVA02524,Golden-gate,(pET28),16,(aoFOec),20,,,,
+B2,pDVA02525,Golden-gate,(pET28),16,(svFOec),21,,,,
+C2,pDVA02526,Golden-gate,(backbone),22,(opMO),23,(hpPYCnoBsaIFirstHalf),24,(hpPYCnoBsaISecondHalf),25
+D2,pDVA02527,Golden-gate,(backbone),22,(opMOec),26,(hpPYCnoBsaIFirstHalf),24,(hpPYCnoBsaISecondHalf),25
+E2,pDVA02528,Golden-gate,(BackBone),27,(mrPPK2ec),28,,,,
+F2,pDVA02529,SLIC/Gibson/CPEC,(backbone-phaA)_(syn-linker),29,(Btkb-HMGS-HMGR),30,,,,
+H2,,,,,,,,,,
+G2,,,,,,,,,,
